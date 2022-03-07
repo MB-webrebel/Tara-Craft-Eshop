@@ -1,0 +1,234 @@
+/* Shine effekt http://www.purplesquirrels.com.au/2013/04/hover-shine-effect-with-pure-css/ */
+.mask {
+	position: relative;
+}
+
+.mask:after {
+	content: "";
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 0%;
+	height: 100%;
+	background-color: rgba(0,0,0,0);
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+	transition: none;
+		
+}
+
+.mask:hover:after {
+	width: 120%;
+	background-color: rgba(255,255,255,0);
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+
+.mask button, .mask input{
+	z-index: 1;
+}
+
+.mask input[type="text"]{
+	/* width: 50px; */
+}
+
+/* Card inner for product */
+.card-inner{
+	margin: 10px;
+	border: 1px solid #eee;
+}
+
+/* Header / Logo, menu */
+.site-header{
+	border-bottom: 1px solid #eee;
+	/* min-height: 130px; */
+}
+
+.site-header h1 a span {
+	font-size: 25em;
+	display: block;
+	color: #34B5CD;
+}
+
+.site-header h1 a {
+    font-size: 3em;
+    color: #34B5CD;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    background: url(../images/grocery-images/upload/tara_craft_logo.png) no-repeat 0.5px 0.3px;
+    line-height: 1;
+    height: 25px;
+	font-style: url(../Users/ACER/Downloads)
+}
+
+.site-header nav{
+	margin-top: 30px !important;
+}
+
+.site-header nav a{
+	font-size: 20px;
+	margin-left: 15px;
+}
+
+.site-header nav a:hover{
+	text-decoration: none;
+	color: #84C639 !important;
+}
+
+.site-header nav a.btn:hover{
+	color: #fff !important;
+}
+
+@media(max-width: 1000px){
+	.site-header h1{
+		display: block;
+	}
+	.site-header h1 a{
+		height: 25px;
+		font-size: 5em;
+		background-position: 42px -13px; 
+	}
+}
+
+@media(max-width: 767px){
+	.site-header h1 a{
+		text-align: center;
+		background-position: 159px -13px; 
+	}
+	
+	.site-header nav{
+		text-align: center;
+	}
+}
+
+@media(max-width: 580px){
+	.site-header h1 a{
+		background: none; 
+		height:15px;
+	}
+}
+
+/* Left navigation */
+#left-navigation{
+	list-style-type: none;
+	padding-left: 0;
+}
+
+#left-navigation a{
+	text-decoration: none;
+	color: #000;
+	display: block;
+	padding: 10px 0px 10px 20px;
+	border-bottom: 1px dotted #CDCDCD;
+}
+
+#left-navigation a:hover{
+	background-color: #84C639;
+	color: #fff;
+}
+
+#left-navigation a.active{
+	background-color: #84C639;
+	color: #fff;
+}
+
+/* PRODUCTS */
+#products .title{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	padding: 1.25rem;
+}
+
+#products .productImg {
+	text-align: center;
+}
+
+#products .productImg img {
+	max-width: 140px;
+}
+
+#products .price{
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+/* FOOTER */
+footer{
+	padding: 20px 0;
+	border-top: 1px solid #eee;
+}
+
+footer a{
+	font-weight: bold;
+	color: #343a40;
+}
+
+footer a:hover{
+	color: #84C639;
+	text-decoration: none;
+}
+
+
+/* Bootstrap overrides */
+.mask{
+	border-radius: 0;
+}
+
+button{
+	outline:none;
+	background-color: none;
+}
+
+.btn-outline-primary{
+	color: #343a40;
+	outline: none;
+}
+
+.btn-outline-primary{
+	border-color: #ccc;
+}
+
+.btn-outline-primary:hover{
+	border-color: #84C639;
+	background-color: #84C639;
+}
+
+.btn-outline-secondary{
+	border-color: #FA1818;
+	background-color: #FA1818;
+	color: #fff;
+}
+
+.btn-outline-secondary:hover{
+	border-color: #84C639;
+	background-color: #84C639;
+}
+
+.lead{
+	margin-bottom: 40px;
+}
+
+.text-muted{
+	white-space: nowrap;
+}
+
+/* FONT AWESOME OVERRIDES */
+.fa-trash-alt{
+	color: #FA1818;
+}
+
+/* Additional */
+.trashButton{
+	background: none;
+	border: none;
+	cursor: pointer;
+}

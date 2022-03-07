@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product>
+        <id>1</id>
+        <type>Product</type>
+        <category>Dočasná prepážka s nožičkami</category>
+        <title>Dočasná prepážka s nožičkami 1400x600mm</title>
+        <description>Stabilná plexi stena pre vzájomnú ochranu obsluhy a nakupujúcich pred kvapôčkovou infekciou. Clona z vysoko číreho plexiskla.</description>
+        <baseImage>images/grocery-images/upload/prepazka.jpg</baseImage>
+        <price>108</price>
+    </Product>
+    <Product>
+        <id>2</id>
+        <type>Product</type>
+        <category>Dočasná prepážka s nožičkami</category>
+        <title>Dočasná prepážka s nožičkami 1200x600mm</title>
+        <description>Stabilná plexi stena pre vzájomnú ochranu obsluhy a nakupujúcich pred kvapôčkovou infekciou. Clona z vysoko číreho plexiskla.</description>
+        <baseImage>images/grocery-images/upload/prepazka.jpg</baseImage>
+        <price>96</price>
+    </Product>
+    <Product>
+        <id>3</id>
+        <type>ProductPack</type>
+        <category>Dočasná prepážka s nožičkami</category>
+        <title>Dočasná prepážka s nožičkami 900x600mm</title>
+        <description>Stabilná plexi stena pre vzájomnú ochranu obsluhy a nakupujúcich pred kvapôčkovou infekciou. Clona z vysoko číreho plexiskla.</description>
+        <baseImage>images/grocery-images/upload/prepazka.jpg</baseImage>
+        <pricePerUnit>84</pricePerUnit>
+        <itemsInPack>1</itemsInPack>
+    </Product>
+    <Product>
+        <id>4</id>
+        <type>ProductWeight</type>
+        <category>Ochranný štít na tvár</category>
+        <title>Ochranný štít na tvár</title>
+        <description>Ochranný štít na tvár je vhodný pre každého lekára či zamestnanca firmy. Znižuje riziko kontaktu s choroboplodnými zárodkami a vírusmi. Ochranný štít je vyrobený z tenkého 0,2 mm plastu, ktorý má výborné optické vlastnosti. Tento plastový štít je odolný voči dezinfekčným prostriedkom na báze alkoholu a vhodný na opakovane použitie. 
+100% slovenský výrobok!
+Výhody ochranného štítu:
+    • Vynikajúca ochrana proti vírusom
+    • Vhodný na opakovane použitie
+    • Nízka hmotnosť
+Ochranné štíty sú vhodné napr. do nemocnice, lekární, prevádzky či obchodu.</description>
+        <baseImage>images/grocery-images/upload/net/Ochranný štít na tvár-0.jpg</baseImage>
+        <pricePerUnit>12</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>5</id>
+        <type>Product</type>
+        <category>Osviežujúci Gél na Ruky s antibakteriálnym účinkom</category>
+        <title>Osviežujúci Gél na Ruky s antibakteriálnym účinkom 100ml</title>
+        <description>OSVIEŽUJÚCI GÉL NA RUKY s antibakteriálnym účinkom.
+Vďaka obsahu alkoholu vykazuje gél antibakteriálne vlastnosti. Obsiahnuté prísady, ako je glycerín, pantenol a extrakt z aloe vera navyše pomáhajú hydratovať a riadne ošetriť pokožku rúk. Gél je efektívny a ľahko roztierateľný na pokožku. Rýchlo sa vstrebáva, nezanecháva pocit lepkavých rúk.
+Zloženie: Alcohol Denat., Aqua, Glycerin, Panthenol, Parfum, Aloe Barbadensis Leaf Powder, Carbomer, Triethanolamine, Limonene Linalool, Eugenol, Deraniol
+Spôsob aplikácie: Naniesť malé množstvo gélu do dlaní a vmasírovať do pokožky.
+Upozornenia: Nepoužívajte produkt v prípade precitlivenosti na akúkoľvek zložku. Produkt vhodný iba na vonkajšie použitie. Nepoužívajte na poškodenú alebo podráždenú pokožku. Chráňte oči a sliznice pred kontaktom.</description>
+        <baseImage>images/grocery-images/upload/net/gél na ruky.jpg</baseImage>
+        <price>7.20</price>
+    </Product>
+    <Product>
+        <id>6</id>
+        <type>Product</type>
+        <category>Ochraňujúci Gél na Ruky s antibakteriálnym účinkom</category>
+        <title>Ochraňujúci Gél na Ruky s antibakteriálnym účinkom 100ml</title>
+        <description>Gél na ruky na báze éterických olejov z čajovníku, levandule a rozmarínu. S efektívnym antibakteriálnym účinkom. Účinne osviežuje a ochraňuje vašu pokožku.
+Bez použitia vody. Po aplikácii dáva pocit sviežosti. Účinný, ľahko sa nanáša na pokožku. Rýchlo sa vstrebáva.
+Zloženie: Aqua / Water, Propylene Glycol, Polyquaternium-37, Benzalkonium Chloride, Chlorhexidine Digluconate, Helianthus Anuus Seed Oil, Lavandula Angustifolia Herb Oil, Rosmarimus Officinalis Leaf Oil, Melaleuca Alternifolia Leaf Oil, Ethylhyexylglycerin, Parfum / Fragrance, Geraniol, Limonene, Linalool, Phenoxyethanol
+Spôsob aplikácie: Naniesť malé množstvo gélu do dlaní a vmasírovať do pokožky.
+Upozornenia: Nepoužívajte produkt v prípade precitlivenosti na akúkoľvek zložku. Produkt vhodný iba na vonkajšie použitie. Nepoužívajte na poškodenú alebo podráždenú pokožku. Chráňte oči a sliznice pred kontaktom.</description>
+        <baseImage>images/grocery-images/upload/net/gél na ruky.jpg</baseImage>
+        <price>8.40</price>
+    </Product>
+    <Product>
+        <id>7</id>
+        <type>ProductPack</type>
+        <category>Osviežujúci Gél na Ruky s antibakteriálnym účinkom</category>
+        <title>Osviežujúci Gél na Ruky s antibakteriálnym účinkom 500ml</title>
+        <description>SVIEŽUJÚCI GÉL NA RUKY s antibakteriálnym účinkom 500ml
+Vďaka obsahu alkoholu vykazuje gél antibakteriálne vlastnosti. Obsiahnuté prísady, ako je glycerín, pantenol a extrakt z aloe vera navyše pomáhajú hydratovať a riadne ošetriť pokožku rúk. Gél je efektívny a ľahko roztierateľný na pokožku. Rýchlo sa vstrebáva, nezanecháva pocit lepkavých rúk.
+Zloženie: Alcohol Denat., Aqua, Glycerin, Panthenol, Parfum, Aloe Barbadensis Leaf Powder, Carbomer, Triethanolamine, Limonene Linalool, Eugenol, Deraniol
+Spôsob aplikácie: Naniesť malé množstvo gélu do dlaní a vmasírovať do pokožky.
+Upozornenia: Nepoužívajte produkt v prípade precitlivenosti na akúkoľvek zložku. Produkt vhodný iba na vonkajšie použitie. Nepoužívajte na poškodenú alebo podráždenú pokožku. Chráňte oči a sliznice pred kontaktom.</description>
+        <baseImage>images/grocery-images/upload/net/Ekomedica-2020-etiketa-OSVIEZUJUCI-GEL-500-ml-600x600.jpg</baseImage>
+        <pricePerUnit>12</pricePerUnit>
+        <itemsInPack>1</itemsInPack>
+    </Product>
+    <Product>
+        <id>8</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “Zákaz vstupu bez rúška!“</title>
+        <description>NÁLEPKA Zákaz vstupu bez rúška.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/net/zákaz vstupu bez rúška.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>9</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “Zákaz vstupu bez merania teploty!“</title>
+        <description>NÁLEPKA Zákaz vstupu bez merania teploty.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/zakaz_vstupu_bez_merania_teploty.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>10</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “Vstup len po jednom!“</title>
+        <description>NÁLEPKA Vstup len po jednom.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/vstup_len_po_jednom.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>11</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “Nevytvárajte skupiny!“</title>
+        <description>NÁLEPKA Nevytvárajte skupiny.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/nevytvarajte_skupiny.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>12</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “Dodržuj diskrétny odstup!“</title>
+        <description>NÁLEPKA Dodržuj diskrétny odstup.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/dodrzuj_diskretny_odstup.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>13</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “Dezinfikuj si ruky!“</title>
+        <description>NÁLEPKA Dezinfikuj si ruky.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/dezinfikuj_si_ruky.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+	<Product>
+        <id>14</id>
+        <type>ProductWeight</type>
+        <category>Nálepka</category>
+        <title>Nálepka “2m odstup!“</title>
+        <description>NÁLEPKA 2m odstup.
+- PVC samolepka vhodná do exteriéru aj interiéru
+- odoláva vplyvom počasia
+- rozmer 210x286mm</description>
+        <baseImage>images/grocery-images/upload/2m_odstup.jpg</baseImage>
+        <pricePerUnit>5</pricePerUnit>
+        <weight>1</weight>
+    </Product>
+</Products>

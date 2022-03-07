@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="sk">
+
+<head>
+    <meta charset="utf-8">
+    <title>Nová objednávka</title>
+</head>
+
+<body>
+    <table width="100%">
+        <tbody>
+            <tr>
+                <th colspan="2" style="background-color:#26a6ef;color:#fff;padding:10px;text-align:left">
+                    OBJEDNÁVKA
+                </th>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Dátum vytvorenia:</strong>
+                </td>
+                <td style="padding:10px">
+                    {{createdDate}}
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Meno zákazníka:</strong>
+                </td>
+                <td style="padding:10px">
+                    {{fullName}}
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Email:</strong>
+                </td>
+                <td style="padding:10px">
+                    {{email}}
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Telefón:</strong>
+                </td>
+                <td style="padding:10px">
+                    {{phone}}
+                </td>
+            </tr>
+
+            <tr>
+                <th colspan="2" style="background-color:#26a6ef;color:#fff;padding:10px;text-align:left">
+                    POLOŽKY
+                </th>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:10px">
+                    {{orderItems}}
+                </td>
+            </tr>
+
+            <tr>
+                <th colspan="2" style="background-color:#26a6ef;color:#fff;padding:10px;text-align:left">
+                    SUMA CELKOM
+                </th>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    {{totalprice}} &euro;
+                </td>
+            </tr>
+
+            <tr>
+                <th colspan="2" style="background-color:#26a6ef;color:#fff;padding:10px;text-align:left">
+                    ADRESA
+                </th>
+            </tr>
+            <tr style="background-color:#f9f9f9">
+                <td style="padding:10px">
+                    <strong>Meno/Firma:</strong>
+                </td>
+                <td style="padding:10px">{{companyName}}</td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Ulica:</strong>
+                </td>
+                <td style="padding:10px">{{street}}</td>
+            </tr>
+            <tr style="background-color:#f9f9f9">
+                <td style="padding:10px">
+                    <strong>Psč:</strong>
+                </td>
+                <td style="padding:10px">{{psc}}</td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Mesto:</strong>
+                </td>
+                <td style="padding:10px">{{city}}</td>
+            </tr>
+            <tr style="background-color:#f9f9f9">
+                <td style="padding:10px">
+                    <strong>Krajina:</strong>
+                </td>
+                <td style="padding:10px">{{country}}</td>
+            </tr>
+            <tr style="background-color:#f9f9f9">
+                <td style="padding:10px">
+                    <strong>Ičo:</strong>
+                </td>
+                <td style="padding:10px">{{ico}}</td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    <strong>Dič:</strong>
+                </td>
+                <td style="padding:10px">{{dic}}</td>
+            </tr>
+            <tr style="background-color:#f9f9f9">
+                <td style="padding:10px">
+                    <strong>Ič Dph:</strong>
+                </td>
+                <td style="padding:10px">{{icDph}}</td>
+            </tr>
+
+        </tbody>
+    </table>
+</body>
+
+</html>
